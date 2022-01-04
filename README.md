@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antiochusb
 - 👀 I’m interested in Cloud Apps, API's and Security Research.
 - 🌱 I’m currently learning Go and Rust to add to my C, C#, GraphQL, JavaScript, Python and Ruby skill set.
-- 💞️ I’m looking to collaborate on secure Cloud App dev and Security Research.
+- 💞️ I’m looking to collaborate on Secure Cloud App Dev and Security Research.
 - 📫 How to reach me antiochus.bahati@athonx.com.
 
 <!---
